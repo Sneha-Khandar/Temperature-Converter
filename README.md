@@ -5,9 +5,7 @@ A simple web application for converting temperatures between Celsius, Fahrenheit
 
 ## Features
 
-- Convert temperatures from Celsius to Fahrenheit and Kelvin
-- Convert temperatures from Fahrenheit to Celsius and Kelvin
-- Convert temperatures from Kelvin to Celsius and Fahrenheit
+- Convert temperatures from Fahrenheit and Kelvin to Celsius
 - Responsive design for use on all devices
 
 ## Technologies Used
