@@ -1,8 +1,6 @@
 
 # Temperature Converter
 
-![Temperature Converter](https://img.shields.io/badge/Temperature%20Converter-v1.0-blue)
-
 A simple web application for converting temperatures between Celsius, Fahrenheit, and Kelvin.
 
 ## Features
