@@ -43,3 +43,5 @@ Contributions are welcome! Please fork the repository and create a pull request.
 5. Create a new Pull Request
 
 ## Task Preview
+
+https://github.com/Sneha-Khandar/Temperature-Converter/assets/168733144/83ee5fe7-aaeb-4bc7-ad16-77cdf4997fe2
